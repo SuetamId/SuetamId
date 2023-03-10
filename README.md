@@ -1,8 +1,8 @@
 ## Olá! Eu sou Mateus Oliveira
 
-- 🔭 Hoje trabalho como Tecnico de TI
+- 🔭 Desenvolvedor Front-End
 - 👨‍🎓 Estudando: Java e seus Frameworks / Front-End 
-- 🌱 Objetivo: Alcançar a programação Full Stack
+- 🌱 Objetivo: aprimorar minhas Skills 
 
 
 <div align="center">
