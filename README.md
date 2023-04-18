@@ -1,7 +1,6 @@
 ## Olá! Eu sou Mateus Oliveira
 
 - 🔭 Desenvolvedor Front-End
-- 👨‍🎓 Estudando: Java e seus Frameworks / Front-End 
 - 🌱 Objetivo: aprimorar minhas Skills 
 
 
