@@ -1,6 +1,6 @@
 ## Olá! Eu sou Mateus Oliveira
 
-- 🔭 Desenvolvedor Front-End
+- 🔭 Desenvolvedor Front-End using Angular 
 - 🌱 Objetivo: aprimorar minhas Skills 
 
 
