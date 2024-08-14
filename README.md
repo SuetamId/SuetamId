@@ -24,9 +24,10 @@
 - 💬 &nbsp; Me pergunte algo sobre tecnologia ou games, serei feliz em conversar sobre;
 - :video_game: &nbsp; No meu tempo livre, Eu gosto de estudar novas tecnologias e jogar jogos competitivos.
 
-## <!-- Languages and Tools -->
 
-### Languages and Tools: 
+## <!-- Habilidades -->
+
+### Habilidades: 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -49,6 +50,9 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" width="50" height="50"/>
 </a>
   </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+</a>
+  </a>
   <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50" height="50"/>
 </a>
     <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="java" width="50" height="50"/>
@@ -60,11 +64,11 @@
 <!-- Status -->
 ### My Github Data:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue)
 
-![Visualizações no perfil](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Linhas de Codigo](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.8%20thousand%20lines%20of%20code-blue)
 
 
 **Sou mais da noite 🦉** 
