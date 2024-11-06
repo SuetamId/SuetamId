@@ -15,14 +15,13 @@
 
 ### Sobre mim:
 
-- :mortar_board: &nbsp; Eu sou graduado em Sistemas para internet - UNICESUMAR; 
-- :writing_hand: &nbsp; Atualmente estou aprendendo Java / spring boot;
-- 👨🏻‍💻 &nbsp; Trabalho como Desenvolvedor Frontend;
-- 👨🏻‍💻 &nbsp; Meus projetos estão disponíveis aqui [Github](https://github.com/SuetamId?tab=repositories);
-- 📫 &nbsp; Sinta-se livre para se conectar comigo [LinkedIn](https://www.linkedin.com/in/mateus-h-o-silveira/);
-- 📝 &nbsp; Nos horarios livres gosto de ajudar a comunidade [Artigos](https://dev.to/mateus_oliveira_)
-- 💬 &nbsp; Me pergunte algo sobre tecnologia ou games, serei feliz em conversar sobre;
-- :video_game: &nbsp; No meu tempo livre, Eu gosto de estudar novas tecnologias e jogar jogos competitivos.
+- :mortar_board: &nbsp; I have a degree in Internet Systems - UNICESUMAR; 
+- :writing_hand: &nbsp; Right now, I'm learning Java and Spring Boot;
+- 👨🏻‍💻 &nbsp; I work as a Frontend Developer with Angular;
+- 👨🏻‍💻 &nbsp; You can check out my projects here [Github](https://github.com/SuetamId?tab=repositories);
+- 📫 &nbsp; Feel free to connect with me  [LinkedIn](https://www.linkedin.com/in/mateus-h-o-silveira/);
+- 📝 &nbsp; In my free time, I enjoy helping the communit [Artigos](https://dev.to/mateus_oliveira_)
+- 💬 &nbsp; Ask me anything about tech or games – I’d be happy to chat about it;
 
 
 ## <!-- Habilidades -->
