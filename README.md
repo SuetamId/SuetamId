@@ -20,7 +20,7 @@
 - 👨🏻‍💻 &nbsp; Trabalho como Desenvolvedor Frontend;
 - 👨🏻‍💻 &nbsp; Meus projetos estão disponíveis aqui [Github](https://github.com/SuetamId?tab=repositories);
 - 📫 &nbsp; Sinta-se livre para se conectar comigo [LinkedIn](https://www.linkedin.com/in/mateus-h-o-silveira/);
-- 📝 &nbsp; Dê uma olhadinha no meu curriculo [Curriculo](#)
+- 📝 &nbsp; Nos horarios livres gosto de ajudar a comunidade [Artigos](https://dev.to/mateus_oliveira_)
 - 💬 &nbsp; Me pergunte algo sobre tecnologia ou games, serei feliz em conversar sobre;
 - :video_game: &nbsp; No meu tempo livre, Eu gosto de estudar novas tecnologias e jogar jogos competitivos.
 
