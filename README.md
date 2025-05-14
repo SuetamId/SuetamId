@@ -38,9 +38,6 @@
 </a>
   </a>
   <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50" height="50"/>
-</a>
-    <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="java" width="50" height="50"/>
-</a>
 </p>
 
 ##
