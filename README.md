@@ -5,7 +5,7 @@
 - :mortar_board: &nbsp; I have a degree in Internet Systems - UNICESUMAR; 
 - 👨🏻‍💻 &nbsp; I work as a Frontend Developer with Angular;
 - 👨🏻‍💻 &nbsp; You can check out my projects here [Github](https://github.com/SuetamId?tab=repositories);
-- 📝 &nbsp; In my free time, I enjoy helping the communit [Aticles](https://dev.to/mateus_oliveira_)
+- 📝 &nbsp; In my free time, I enjoy helping the communit [Articles](https://dev.to/mateus_oliveira_)
 - 💬 &nbsp; Ask me anything about tech or games – I’d be happy to chat about it;
 
 
