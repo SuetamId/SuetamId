@@ -1,32 +1,17 @@
-<!-- Header typing -->
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Codes&weight=800&size=30&pause=1000&center=true&multiline=true&width=500&height=124&lines=Fala+Galera;Eu+sou+Mateus+Oliveira;%C3%89+um+prazer!" alt="Typing SVG" /></a>
-<!-- Social media and Contact  -->
-<div align="center">
-<a href = "mailto:mmcc.silveira@gmail.com"><img  width="50" height="50" src="https://user-images.githubusercontent.com/42783697/214699405-1f3318d6-28e6-47e7-99d4-0da08c43d526.png" target="_blank">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mateus-h-o-silveira/" target="_blank"><img  width="50" height="50" src="https://user-images.githubusercontent.com/42783697/214698902-69cc6bfc-1060-47dd-bbba-5796b9256fdb.png" target="_blank"></a> 
-</div>
-</a>
 
 
-## <!-- About me -->
-
-### Sobre mim:
+### About me:
 
 - :mortar_board: &nbsp; I have a degree in Internet Systems - UNICESUMAR; 
-- :writing_hand: &nbsp; Right now, I'm learning Java and Spring Boot;
 - 👨🏻‍💻 &nbsp; I work as a Frontend Developer with Angular;
 - 👨🏻‍💻 &nbsp; You can check out my projects here [Github](https://github.com/SuetamId?tab=repositories);
-- 📫 &nbsp; Feel free to connect with me  [LinkedIn](https://www.linkedin.com/in/mateus-h-o-silveira/);
-- 📝 &nbsp; In my free time, I enjoy helping the communit [Artigos](https://dev.to/mateus_oliveira_)
+- 📝 &nbsp; In my free time, I enjoy helping the communit [Aticles](https://dev.to/mateus_oliveira_)
 - 💬 &nbsp; Ask me anything about tech or games – I’d be happy to chat about it;
 
 
-## <!-- Habilidades -->
+## <!-- Skills -->
 
-### Habilidades: 
+### Skills: 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -70,21 +55,17 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.8%20thousand%20lines%20of%20code-blue)
 
 
-**Sou mais da noite 🦉** 
-
 ```text
 🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 🌙 Night                  80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 🌃 Evening                757 commits         █████████████████████░░░░   85.54 % 
 ```
 
-📊 **Tempo gasto esta semana com** 
-
 ```text
-💬 Programando: 
+💬 coding: 
 No Activity Tracked This Week
 
-🐱‍💻 Projetos: 
+🐱‍💻 projects: 
 No Activity Tracked This Week
 ```
 
